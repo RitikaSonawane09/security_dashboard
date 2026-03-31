@@ -1,0 +1,560 @@
+[
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 70,
+    "timestamp": "2026-03-25T09:56:57.207208"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 70,
+    "timestamp": "2026-03-25T10:13:25.098714"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 70,
+    "timestamp": "2026-03-25T10:19:33.669014"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 70,
+    "timestamp": "2026-03-25T10:19:36.586505"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-25T10:19:38.818886"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-25T10:19:41.446205"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-25T10:19:44.784317"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-25T10:19:48.230254"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 70,
+    "timestamp": "2026-03-25T10:21:16.369930"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-25T10:21:19.325258"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-25T10:21:22.486455"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-25T10:21:26.025137"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 70,
+    "timestamp": "2026-03-25T10:22:16.797049"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 70,
+    "timestamp": "2026-03-25T10:22:19.736401"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-25T10:22:23.183072"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-25T10:22:26.266586"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 70,
+    "timestamp": "2026-03-25T10:50:38.175272"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-25T10:50:46.731295"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 70,
+    "timestamp": "2026-03-25T10:51:01.124018"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 70,
+    "timestamp": "2026-03-28T11:34:36.920322"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:34:41.128960"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:34:43.962874"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:34:47.658070"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:34:50.691609"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:34:53.152368"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:34:55.566624"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:34:57.945185"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:35:00.234288"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:35:02.537353"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:35:05.007627"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:35:07.415299"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:35:09.816299"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (170)",
+    "risk_score": 170,
+    "timestamp": "2026-03-28T11:35:12.753311"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-28T11:40:11.886010"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-28T11:40:18.123406"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (120)",
+    "risk_score": 120,
+    "timestamp": "2026-03-28T12:18:03.209791"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (130)",
+    "risk_score": 130,
+    "timestamp": "2026-03-28T12:18:49.674158"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (80)",
+    "risk_score": 80,
+    "timestamp": "2026-03-28T12:19:29.986477"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (80)",
+    "risk_score": 80,
+    "timestamp": "2026-03-28T12:20:14.278986"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (80)",
+    "risk_score": 80,
+    "timestamp": "2026-03-28T12:20:39.821882"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk score (80)",
+    "risk_score": 80,
+    "timestamp": "2026-03-28T12:20:56.768811"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: High risk (120)",
+    "risk_score": 80,
+    "timestamp": "2026-03-28T12:43:22.684428"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 30)",
+    "risk_score": 30,
+    "timestamp": "2026-03-28T13:00:44.208635"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 170)",
+    "risk_score": 130,
+    "timestamp": "2026-03-28T13:00:52.142128"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 120)",
+    "risk_score": 80,
+    "timestamp": "2026-03-28T13:00:54.661216"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 170)",
+    "risk_score": 130,
+    "timestamp": "2026-03-28T13:00:58.674004"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 170)",
+    "risk_score": 130,
+    "timestamp": "2026-03-28T13:01:01.401355"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 170)",
+    "risk_score": 130,
+    "timestamp": "2026-03-28T13:01:05.661533"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 170)",
+    "risk_score": 130,
+    "timestamp": "2026-03-28T13:01:08.931295"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 170)",
+    "risk_score": 130,
+    "timestamp": "2026-03-28T13:01:12.040509"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 170)",
+    "risk_score": 130,
+    "timestamp": "2026-03-28T13:01:15.661331"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 170)",
+    "risk_score": 130,
+    "timestamp": "2026-03-28T13:01:18.384431"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 70,
+    "timestamp": "2026-03-28T13:02:37.075136"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied : High Risk (120)",
+    "risk_score": 80,
+    "timestamp": "2026-03-28T13:05:44.078605"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied : High Risk (170)",
+    "risk_score": 130,
+    "timestamp": "2026-03-28T13:05:51.020019"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied : High Risk (120)",
+    "risk_score": 80,
+    "timestamp": "2026-03-28T13:06:36.667999"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 120)",
+    "risk_score": 80,
+    "timestamp": "2026-03-28T13:08:55.140272"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 120)",
+    "risk_score": 80,
+    "timestamp": "2026-03-28T13:09:15.281077"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 120)",
+    "risk_score": 80,
+    "timestamp": "2026-03-28T13:09:18.716330"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 170)",
+    "risk_score": 130,
+    "timestamp": "2026-03-28T13:09:22.076016"
+  },
+  {
+    "user": "user",
+    "role": "user",
+    "endpoint": "/protected",
+    "decision": "DENY",
+    "reason": "Access denied: Admin only endpoint",
+    "risk_score": 120,
+    "timestamp": "2026-03-28T13:10:16.207491"
+  },
+  {
+    "user": "admin",
+    "role": "admin",
+    "endpoint": "/protected",
+    "decision": "ALLOW",
+    "reason": "Access granted (risk score: 120)",
+    "risk_score": 80,
+    "timestamp": "2026-03-31T11:28:25.127841"
+  }
+]
