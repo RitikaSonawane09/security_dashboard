@@ -4,6 +4,7 @@ from decision_engine import evaluate_access
 from logger import log_decision
 from risk_engine import calculate_risk
 import json
+import os
 
 
 
@@ -132,5 +133,5 @@ def dashboard():
     return render_template("dashboard.html")
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
     
